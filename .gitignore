@@ -1,0 +1,23 @@
+
+DS_Store# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+
+# Entornos virtuales
+venv/
+.env
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Archivos de datos (no subir datasets finales)
+*.csv
+
+
+# Configuración de IDEs
+.vscode/
+
