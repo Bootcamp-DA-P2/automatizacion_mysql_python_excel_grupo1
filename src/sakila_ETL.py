@@ -14,8 +14,7 @@ from src.config import (
 # CONEXIÓN MYSQL
 # -----------------------------
 
-engine = create_engine(
-    f"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}/{DB_NAME}"
+engine = create_engine("mysql+pymysql://root:Segovia1991*@127.0.0.1/sakila"
 )
 
 # -----------------------------
