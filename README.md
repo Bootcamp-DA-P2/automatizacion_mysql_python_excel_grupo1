@@ -118,7 +118,7 @@ El dashboard fue construido utilizando Power Pivot, tablas dinámicas y visualiz
 # 📸 Dashboard Preview
 
 
-![Dashboard Preview](assets/pict_dashboard.png)
+![Dashboard Sakila](assets/image_1cc198.jpg)
 
 
 ---
