@@ -118,7 +118,7 @@ El dashboard fue construido utilizando Power Pivot, tablas dinámicas y visualiz
 # 📸 Dashboard Preview
 
 ```text
-![Dashboard Preview](pict_dashboard.png)
+![Dashboard Preview](assets/pict_dashboard.png)
 ```
 
 ---
